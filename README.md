@@ -25,7 +25,7 @@ The datastore used for this project is the infamous Superstore Dataset.**Link to
 * Profit over time - sales & profit for sub-category, Profit trend and values
 * Geospatial Analysis - sales & profit for sub-category, Profit across states and cities
 
-**The Stories convey these points: **
+**The Stories convey these points:**
 * Product Sales
 * Product making Profit or loss
 * Profit trend and values
